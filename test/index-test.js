@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 describe('Beatles Loops', function() {
+=======
+describe('Beatles Loop', function() {
+>>>>>>> 5e7d9b1d38206ee6b62067bc8093296a99c01929
   it("returns an array of strings containing what instruments each musician plays", function() {
     const musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
     const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
